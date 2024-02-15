@@ -1,0 +1,53 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+}
+.main{
+    width: 35%;
+    height: 55vh;
+    border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px  #aaaaaa;
+  border-radius: 6%;
+    text-align: center;
+    margin-left: 33%;
+    margin-top: 80px;
+    cursor: pointer;
+}
+.container h2{
+    text-align: center;
+    color: rgb(25, 165, 118);
+    line-height: 8vh;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container input{
+    display: grid;
+    grid-template-columns: 1fr ;
+    margin-left: 25%;
+    width: 50%;
+    height: 4vh;
+    border-radius: 4px;
+    /* text-indent: 35px; */
+
+    
+    
+} 
+
+.bttn{
+    /* margin-left: 8%; */
+    width: 50%;
+    height: 4vh;
+    border-radius: 4px;
+    background-color: rgb(68, 68, 181);
+    border: transparent;
+    color: aliceblue;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+.container span{
+    color: rgb(142, 140, 140);
+    
+}
